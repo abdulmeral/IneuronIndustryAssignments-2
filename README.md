@@ -1,5 +1,5 @@
 # Assignment-2
-
+* All tasks are here.
 ## Docker Commands
 
 ### Task-1
@@ -65,3 +65,26 @@
 <hr> 16- docker info : Get detailed information about docker installed on the system including the kernel version, number of containers
 
 ![Pic16](./screenshots/info.png)
+
+
+## Task-2
+
+<hr> docker pull hello-world
+
+![Pic17](./screenshots/2helloworld.png)
+
+![Pic18](./screenshots/2hellocorrect.png)
+
+## Task-3
+
+<hr> Dockerfile
+
+![Pic19](./screenshots/3docker.png)
+
+<hr> app.py
+
+![Pic20](./screenshots/3apppy.png)
+
+<hr> Web
+
+![Pic21](./screenshots/3web.png)
