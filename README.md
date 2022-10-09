@@ -95,7 +95,7 @@
 <hr> 
 
 ```bash
-    13- docker stop <image_name> : stop image
+    12- docker stop <image_name> : stop image
 ```
 
 ![Pic13](./screenshots/stop.png)
@@ -103,7 +103,7 @@
 <hr> 
 
 ```bash
-    14- docker start <image_name> : start image
+    13- docker start <image_name> : start image
 ```
 
 ![Pic14](./screenshots/start.png)
@@ -111,7 +111,7 @@
 <hr> 
 
 ```bash
-    15- docker rmi -f <image_name> : remove image, f:force
+    14- docker rmi -f <image_name> : remove image, f:force
 ```
 
 ![Pic15](./screenshots/rmimage.png)
@@ -119,7 +119,7 @@
 <hr> 
 
 ```bash
-    16- docker info : Get detailed information about docker installed on the system including the kernel version, number of containers
+    15- docker info : Get detailed information about docker installed on the system including the kernel version, number of containers
 ```
 
 ![Pic16](./screenshots/info.png)
