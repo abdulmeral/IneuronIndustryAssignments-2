@@ -170,15 +170,18 @@
 
 ## Task-4
 
-<hr> Github Actions
+<hr> Create New Repo For This Task
 
-```bash 
-  // Pull a docker image from hub
-  docker pull ubuntu
-  docker run -d -t ubuntu
-  docker exec it containerID bash
-  // create a dir for example
-  mkdir abdulmeralDir
-``` 
+- It is a readme file of docker commands that showing on one page html file. 
 
-![Pic22](./screenshots/mkdir.png)
+![Pic22](./screenshots/4git.png)
+
+- Action is done. 
+
+![Pic22](./screenshots/4action.png)
+
+- Image is on DockerHub. 
+
+![Pic22](./screenshots/4hub.png)
+
+* Done.
